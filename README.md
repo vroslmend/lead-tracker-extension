@@ -1,1 +1,1 @@
-A simple lead tracker chrome extension made with Javascript, CSS and HTML.
+A lead tracker chrome extension made with Javascript, CSS and HTML.
